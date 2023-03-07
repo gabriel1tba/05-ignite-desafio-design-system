@@ -25,4 +25,4 @@ jobs:
         working-directory: ./packages/docs
         run: yarn deploy-storybook -- --ci --existing-output-dir=storybook-static
         env:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
