@@ -1,5 +1,5 @@
 {
-	"name": "@ignite-ui/docs",
+	"name": "@gabriel1tba-ui/docs",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -29,10 +29,10 @@
 		"vite": "^4.1.4"
 	},
 	"dependencies": {
-		"@ignite-ui/eslint-config": "*",
-		"@ignite-ui/react": "*",
-		"@ignite-ui/tokens": "*",
-		"@ignite-ui/ts-config": "*",
+		"@gabriel1tba-ui/eslint-config": "*",
+		"@gabriel1tba-ui/react": "*",
+		"@gabriel1tba-ui/tokens": "*",
+		"@gabriel1tba-ui/ts-config": "*",
 		"phosphor-react": "^1.4.1",
 		"polished": "^4.2.2",
 		"react": "^18.2.0",
