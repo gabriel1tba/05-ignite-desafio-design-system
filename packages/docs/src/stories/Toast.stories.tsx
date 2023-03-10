@@ -14,14 +14,14 @@ export default {
 					<div>
 						<Story
 							args={{
-								title: 'Agendamento realizado!',
-								description: 'Seu agendamento foi realizado com sucesso!',
+								title: 'Agendamento realizado',
+								description: 'Quarta-feira, 23 de Outubro às 16h',
 								open: test,
 								onOpenChange: setTest,
 							}}
 						/>
 					</div>
-					<Button onClick={() => setTest((prev) => !prev)}>Agendar</Button>
+					<Button onClick={() => setTest((prev) => !prev)}>Primary</Button>
 				</div>
 			);
 		},
