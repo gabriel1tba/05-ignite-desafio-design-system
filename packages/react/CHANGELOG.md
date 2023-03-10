@@ -1,5 +1,11 @@
 # @gabriel1tba-ui/react
 
+## 3.2.0
+
+### Minor Changes
+
+- Add Toast and Tooltip to Design System
+
 ## 3.1.0
 
 ### Minor Changes
